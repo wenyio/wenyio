@@ -20,6 +20,3 @@ I'm MaWenyi, a Java development engineer.
 - 📫 How to reach me: [i@iven.cc](mailto:i@iven.cc)
 - ⚡ Fun fact: My weight is about to break 60 kg.
 - 🏠 Blog: [Colt's Blog](https://iscolt.com/)
-
-![](https://www.iscolt.com/upload/2020/3/%E4%B8%80%E4%B8%AA%E4%BC%9A%E4%B8%A2%E4%BC%9E%E7%9A%84%E4%BA%BA-9d659351fcfc41f88c156989760df706.png)
-
