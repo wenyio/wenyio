@@ -2,7 +2,6 @@
 
 <!--
 **ivencc/ivencc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +13,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm MaWenyi, a Java development engineer.
+
+- 🔭 I’m currently studying on Nanjing.
+- 📫 How to reach me: [i@iven.cc](mailto:i@iven.cc)
+- ⚡ Fun fact: My weight is about to break 60 kg.
+- 🏠 Blog: [Colt's Blog](https://iscolt.com/)
+
+![](https://www.iscolt.com/upload/2020/3/%E4%B8%80%E4%B8%AA%E4%BC%9A%E4%B8%A2%E4%BC%9E%E7%9A%84%E4%BA%BA-9d659351fcfc41f88c156989760df706.png)
+
