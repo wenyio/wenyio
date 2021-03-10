@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 I'm MaWenyi, a Java development engineer.
 
 - 🔭 I’m currently studying on Nanjing.
-- 📫 How to reach me: [i@iven.cc](mailto:i@iven.cc)
+- 📫 How to reach me: [ma@weny.io](mailto:ma@weny.io)
 - ⚡ Fun fact: My weight is about to break 60 kg.
 - 🏠 Blog: [Colt's Blog](https://iscolt.com/)
