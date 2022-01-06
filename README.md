@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 I'm MaWenyi, a Java development engineer.
 
 - 🔭 I’m currently studying on Nanjing.
-- 📫 How to reach me: [ma@weny.io](mailto:ma@weny.io)
+- 📫 Email: [ma@weny.io](mailto:ma@weny.io)
 - 🏠 Blog: [iscolt.com](https://iscolt.com/)
